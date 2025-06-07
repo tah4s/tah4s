@@ -1,55 +1,52 @@
-# Merhaba, ben Taha 👋
+# Hey, I'm Tah4s 👾
 
-## Hakkımda
+## About Me
 
-- 👨‍💻 Veri Bilimi ve Makine Öğrenimi alanında çalışıyorum.
-- 📊 Veri analizi, istatistiksel modelleme, görselleştirme ve yapay zeka konularına ilgi duyuyorum.
-- 🌱 Şu anda Derin Öğrenme ve Büyük Veri teknolojileri üzerinde kendimi geliştiriyorum.
-- 💬 Veri bilimi, Python ve açık kaynak projeleri hakkında her zaman sohbet edebilirim!
+- 💻 Data Scientist & Quantitative Finance Enthusiast
+- 💹 Passionate about stock markets, trading algorithms, and financial analysis
+- 🛠️ Hacker mindset: always learning, always building
 
-## Yeteneklerim ve Araçlarım
+## Skills
 
-### Programlama Dilleri
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
+### Programming
+![Python](https://img.shields.io/badge/-Python-222?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-222?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-222?logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-222?logo=c%2B%2B&logoColor=white)
 
-### Veri Bilimi & Makine Öğrenimi
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
-![XGBoost](https://img.shields.io/badge/-XGBoost-AA5C2E?logo=xgboost)
-![LightGBM](https://img.shields.io/badge/-LightGBM-028B4B?logo=lightgbm)
+### Data Science & Finance
+![Pandas](https://img.shields.io/badge/-Pandas-222?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-222?logo=numpy)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-222?logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-222?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-222?logo=pytorch)
+![TA-Lib](https://img.shields.io/badge/-TA--Lib-222?logo=python)
+![QuantLib](https://img.shields.io/badge/-QuantLib-222?logo=python)
+![Backtrader](https://img.shields.io/badge/-Backtrader-222?logo=python)
+![Plotly](https://img.shields.io/badge/-Plotly-222?logo=plotly)
 
-### Görselleştirme
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=seaborn)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau)
+### Trading & Finance Tools
+![Bloomberg](https://img.shields.io/badge/-Bloomberg-222?logo=bloomberg)
+![MetaTrader](https://img.shields.io/badge/-MetaTrader-222?logo=metatrader)
+![Excel](https://img.shields.io/badge/-Excel-222?logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/-PowerBI-222?logo=powerbi)
 
-### Veri Tabanı & Büyük Veri
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop)
+### Other Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-222?logo=jupyter)
+![Git](https://img.shields.io/badge/-Git-222?logo=git)
+![Linux](https://img.shields.io/badge/-Linux-222?logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-222?logo=visualstudiocode)
 
-### Geliştirme Ortamları & Ek Araçlar
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+## What I Do
 
-## İletişim
+- Build and test trading strategies
+- Analyze financial data and markets
+- Automate trading bots & financial dashboards
+- Stay up to date with finance, AI, and hacking trends
+
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/)
-- [E-posta](mailto:ornek@mail.com)
+- [Email](mailto:your@email.com)
 
----
-
-> 📈 Veriyle güçlendirilmiş yeni projelerde buluşmak dileğiyle!
+> "Hack the market. Trust the data."
