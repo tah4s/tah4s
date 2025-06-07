@@ -1,4 +1,4 @@
-# Merhaba, ben Tah4s! 👋
+# Merhaba, ben Taha 👋
 
 ## Hakkımda
 
