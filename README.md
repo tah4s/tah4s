@@ -46,7 +46,7 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/tahayusufsaribas)
+- [Email](mailto:tahayusufsaribas@email.com)
 
 > "Hack the market. Trust the data."
